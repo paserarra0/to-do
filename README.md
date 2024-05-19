@@ -39,9 +39,9 @@ Para el desarrollo de la aplicación se usará el marco de trabajo SDLC seguro p
 # Zed Attack Proxy (ZAP)
 Zed Attack Proxy (ZAP) es un escaner de aplicaciones web de código abierto. Para la instalación de esta aplicación nos dirigiremos a el siguiente link:
 * [zaproxy.org](https://www.zaproxy.org/)
-![zap1.png]()
+![zap1](https://github.com/paserarra0/to-do/assets/156304388/635adec0-cc48-4cd4-a6a7-9f590912df12)
 A continuación seleccionaremos el isntalador de Linux ya que usaremos una máquina virtual Ubuntu 22.04
-![zap2.png]()
+![zap2](https://github.com/paserarra0/to-do/assets/156304388/70ea8b39-7a15-4797-8831-f624ca47d297)
 Una vez descargado el instalador, tendremos que instalar java si no lo tenemos descargado. Lo podremos hacer con los siguientes comandos:
 ```
   sudo apt install default-jre
@@ -56,10 +56,10 @@ Finalmente lanzaremos el instalador con:
   sudo ./ZAP_2_15_0_unix.sh
 ```
 A continuación se lanzará la interfaz gráfica del isntalador, solo tendremos que darle a "Next" hasta que finalice. Cuando termine la instalación se abrirá ZAP y veremos el menú principal.
-![zap3.png]()
-![zap4.png]()
+![zap3](https://github.com/paserarra0/to-do/assets/156304388/383d98e9-4a74-48b1-bbc2-3d0a73d0f4eb)
+![zap4](https://github.com/paserarra0/to-do/assets/156304388/bc8fec33-b1f9-4928-8533-ff45c713bc88)
 Para lanzar un análisis automático le daremos al icono que se señala y completaremos el campo de URL con la dirección de la aplicación to-do.
-![zap5.png]()
-![zap6.png]()
+![zap5](https://github.com/paserarra0/to-do/assets/156304388/7f4cda68-9dab-4a92-86c3-f45a44097a6d)
+![zap6](https://github.com/paserarra0/to-do/assets/156304388/ed757189-8553-483f-be27-def7b79b75e2)
 Podremos ver las alertas encontradas con sus respectivas alertas con sus respectivos detalles.
-![zap7.png]()
+![zap7](https://github.com/paserarra0/to-do/assets/156304388/9353338f-e20a-47b2-91c2-52f5ffe7d682)
