@@ -71,6 +71,6 @@ Para lanzar un análisis automático le daremos al icono que se señala y comple
 
 ![zap6](https://github.com/paserarra0/to-do/assets/156304388/ed757189-8553-483f-be27-def7b79b75e2)
 
-Podremos ver las alertas encontradas con sus respectivas alertas con sus respectivos detalles.
+Podremos ver las alertas encontradas con sus respectivos detalles.
 
 ![zap7](https://github.com/paserarra0/to-do/assets/156304388/9353338f-e20a-47b2-91c2-52f5ffe7d682)
